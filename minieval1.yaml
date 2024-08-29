@@ -1,0 +1,18 @@
+Q1:
+  - "What logic is used to rotate the 2D matrix 90 degrees clockwise?"
+  - "Write any syntax error if present, otherwise write 'NO ERROR'."
+  - "Will the code generate the output: {{g d e} {h e b} {k f c}} for the input: {{q b c} {d e f} {g h k}}?"
+
+Q2:
+- Is the Event class present in code?
+- Does the EventManagementSystem class exist in code?
+- List all the methods present in the EventManagementSystem class.
+- What is the logic behind the add event?
+- What is the logic behind removing events?
+- whether ArrayList is used in code?
+
+Q3:
+- Write all class names with their relationship used in the code.
+- What is the logic implemented for the method 'generateToken'.
+- What is the logic implemented for method 'updateStatus'.
+ -What is the logic implemented for method 'getConsultationTime'.
